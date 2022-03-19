@@ -35,11 +35,6 @@
 		<artifactId>webjars-locator</artifactId>
 		<version>0.40</version>
 		</dependency>
-		<!-- tymeleaf-layout-dialect -->
-		<dependency>
-			<groupId>nz.net.ultraq.tymeleaf</groupId>
-			<artifactId>tymeleaf-layout-dialect</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jdbc</artifactId>
